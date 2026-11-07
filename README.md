@@ -32,4 +32,6 @@ bookmarks stay.
 - Reader mode, dark mode for websites, picture-in-picture and screenshots
 - Profiles, bookmarks, history and import from other browsers
 
+We Are Fixing Bugs Right now.
+
 If you find Bugs on the browser. Message me On Whatsapp. Username: stefax149
