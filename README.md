@@ -31,3 +31,5 @@ bookmarks stay.
 - Passwords and addresses saved and filled in for you
 - Reader mode, dark mode for websites, picture-in-picture and screenshots
 - Profiles, bookmarks, history and import from other browsers
+
+If you find Bugs on the browser. Message me On Whatsapp. Username: stefax149
