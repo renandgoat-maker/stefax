@@ -1,6 +1,6 @@
 # StefaX
 
-A fast, private desktop browser built on Chromium.
+A fast, private browser for Windows and Android.
 
 ## Download
 
@@ -8,9 +8,9 @@ Get the latest version from [Releases](https://github.com/renandgoat-maker/stefa
 
 | Device | File |
 | --- | --- |
-| Windows 10 and 11 PC or laptop (Intel or AMD) |  |
-| Windows 11 laptop with an ARM chip (Snapdragon, for example Surface Pro X / Copilot+ PCs) |  |
-| Android 10 or newer phone |  |
+| Windows 10 and 11 PC or laptop (Intel or AMD) | `StefaX-Setup-<version>.exe` |
+| Windows 11 laptop with an ARM chip (Snapdragon, for example Surface Pro X / Copilot+ PCs) | `StefaX-Setup-<version>-arm64.exe` |
+| Android 10 or newer phone | `StefaX-Android-<version>.apk` |
 
 Not sure which Windows file? Open Settings > System > About and look at "System type":
 "x64-based processor" takes the first file, "ARM-based processor" the second.
